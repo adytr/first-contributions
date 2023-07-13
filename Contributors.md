@@ -167,6 +167,7 @@ Here are :
 - [Olayinka Okanlawon](https://github.com/olayinkagrace)
 - [Sohail khan](https://github.com/Sohail700)
 - [Amrita Sharma](https://github.com/amritash1403)
+- [Nikhil](https://github.com/adytr)
 - [Gary Mejia](https://github.com/garymejia)
 - [Sai Dhanush Vankadari](https://github.com/saidhanushv/)
 - [Core447](https://github.com/Core447)
