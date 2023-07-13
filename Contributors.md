@@ -1,3 +1,4 @@
+[nikhil](https://github.com/adytr)
 <!-- prettier-ignore-start and welcome -->
 
 Here are :
@@ -16,6 +17,7 @@ Here are :
 - [abhishek](https://github.com/abhisheksakhare1000)
 - [Mishal Manzoor](https://github.com/mishal55)
 - [Shivam Puri](https://github.com/shivm29)
+- [Jake Hannahan](https://github.com/jake-hannahan)
 - [Ankita Patil](https://github.com/AnkitaPatil2003)
 - [Lebogang Mokoena](https://github.com/manLebza)
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
@@ -30,6 +32,7 @@ Here are :
 - [Iman] (https://github.com/iman2153)
 - [Hassan Kazeem]
 - [Sean Crumley](https://github.com/907VigiL)
+- [Ukpa Uchechi](https://github.com/uchechiukpa)
 - [Uday Surya](https://github.com/udaySuryaP)
 - [Collins Ikechukwu](https://github.com/devcollinss)
 - [Sagar Shrivastava](https://github.com/learner-sagar)
@@ -129,6 +132,7 @@ Here are :
 - [Hari Prasad] (https://github.com/itcodehery)
 - [Khushi](https://github.com/KhushiP098)
 - [Ambroise Ngayinoko](https://github.com/Ambro19)
+- [Sahil Ohe] (https://github.com/sahilohe)
   [Kenny](https://github.com/LeeAllenK)
 - [Pradyumna Hegde](https://github.com/pradyumna-ph)
 - [Sanjay Karthic](https://github.com/Leon-Skar)
@@ -2751,6 +2755,7 @@ Athul
 - [Lasse_Buch](https://github.com/LasseBuchAspIT)
 - [justforfun](https://github.com/justforfun0906)
 - [prolenodev](https://github.com/prolenodev)
+- [Wazaxib](https://github.com/Wazaxib)
 
 - <!-- prettier-ignore-end -->
 - [Naveen Avula](https://github.com/Avula-Naveen)
@@ -2850,3 +2855,4 @@ Athul
 - [Varun Vekaria](https://github.com/VarunVekaria)
 - [LiamSpatola](https://github.com/LiamSpatola)
 - [Unwana Michael](https://github.com/lightnonstop)
+- [Shivam Rao](https://github.com/shivam-rao-official)
